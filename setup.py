@@ -17,18 +17,18 @@
 # You should have received a copy of the GNU General Public License along with
 # this software; if not, see <http://www.gnu.org/licenses/>.
 
-"""Pootle XLIFF
+"""Pootle LIFF
 """
 
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 
 setup(
-    name='pootle_xliff',
+    name='pootle_liff',
     version='0.0.1',
     description='Pootle XLIFF backend',
     long_description="Pootle XLIFF backend",
-    url='https://github.com/phlax/pootle_xliff',
+    url='https://github.com/phlax/pootle_liff',
     author='Ryan Northey',
     author_email='ryan@synca.io',
     license='GPL3',

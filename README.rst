@@ -1,4 +1,4 @@
-Pootle XLIFF
+Pootle LIFF
 ------------
 
-Pootle XLIFF
+Pootle XLIFF backend
